@@ -10,6 +10,7 @@ KFServing provides a Kubernetes [Custom Resource Definition](https://kubernetes.
 
 It encapsulates the complexity of autoscaling, networking, health checking, and server configuration to bring cutting edge serving features like GPU Autoscaling, Scale to Zero, and Canary Rollouts to your ML deployments. It enables a simple, pluggable, and complete story for Production ML Serving including prediction, pre-processing, post-processing and explainability. KFServing is being [used across various organizations.](./ADOPTERS.md)
 
+
 ![KFServing](/docs/diagrams/kfserving.png)
 
 ### Architecture Review
